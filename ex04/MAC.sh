@@ -1,1 +1,1 @@
-ifconfig | grep HW |cat -e
+ifconfig | grep HW | cat -e
